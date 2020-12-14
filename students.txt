@@ -1,0 +1,4 @@
+001,Shreya,21,9848022337,Hyderabad,89 
+002,Nidhi,22,9848022338,Kolkata,78 
+003,Rishi,22,9848022339,Delhi,90 
+004,Shrilakshmi,21,9848022330,Pune,93
